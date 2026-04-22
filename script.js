@@ -36,7 +36,7 @@ const siteData = {
       { label: "Scholar Citations", value: "21" }
     ],
     links: [
-      { label: "Email", href: "mailto:gideono.popoola@gmail.com", style: "primary" },
+      { label: "Email", href: "mailto:gideono.popoola@student.montana.edu", style: "primary" },
       { label: "CV", href: "./Gideon-Popoola-CV.pdf", style: "secondary" },
       { label: "GitHub", href: "https://github.com/horlahsunbo", style: "secondary" },
       {
@@ -182,8 +182,8 @@ const siteData = {
         "Introduces FACO, a hybrid feature-selection approach for high-dimensional classification tasks, extending my earlier work on optimization-driven dimensionality reduction and model performance.",
       links: [
         {
-          label: "Proceedings",
-          href: "https://www.proceedings.com/content/074/074345webtoc.pdf"
+          label: "Article",
+          href: "https://ieeexplore.ieee.org/abstract/document/10500125"
         }
       ]
     },
@@ -241,7 +241,7 @@ const siteData = {
       title:
         "Do Fair Models Reason Fairly? Counterfactual Explanation Consistency for Procedural Fairness in Credit Decisions",
       authors: "Gideon Popoola and collaborators",
-      venue: "Current manuscript draft",
+      venue: "ACM EAAMO",
       year: "2026",
       kind: "Working Paper",
       status: "In Preparation",
@@ -254,7 +254,7 @@ const siteData = {
       title:
         "Meritocracy or Masquerade? Auditing Algorithmic Fairness and Proxy Discrimination in Automated Credit Decisions",
       authors: "Gideon Popoola and John Sheppard",
-      venue: "Current manuscript draft",
+      venue: "Review AI and Society",
       year: "2026",
       kind: "Working Paper",
       status: "In Preparation",
