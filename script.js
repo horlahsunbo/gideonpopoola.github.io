@@ -4,7 +4,7 @@ const siteData = {
     role: "PhD Candidate in Computer Science",
     institution: "Gianforte School of Computing, Montana State University",
     location: "Bozeman, Montana, USA",
-    email: "gideono.popoola@student.montana.edu",
+    email: "gideon.popoola@student.montana.edu",
     advisor: "Prof. John Sheppard",
     note:
       "Researching machine learning fairness and interpretability with an emphasis on procedural fairness in high-stakes decision systems.",
@@ -36,7 +36,7 @@ const siteData = {
       { label: "Scholar Citations", value: "21" }
     ],
     links: [
-      { label: "Email", href: "mailto:gideono.popoola@student.montana.edu", style: "primary" },
+      { label: "Email", href: "mailto:gideon.popoola@student.montana.edu", style: "primary" },
       { label: "CV", href: "./Gideon-Popoola-CV.pdf", style: "secondary" },
       { label: "GitHub", href: "https://github.com/horlahsunbo", style: "secondary" },
       {
